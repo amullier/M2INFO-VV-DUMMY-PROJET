@@ -1,7 +1,8 @@
-package fr.istic.domain.operations;
+package fr.istic.vv.operations;
 
-import fr.istic.domain.Operation;
-import fr.istic.domain.OperationException;
+
+import fr.istic.vv.Operation;
+import fr.istic.vv.OperationException;
 
 public class Div implements Operation {
     /**

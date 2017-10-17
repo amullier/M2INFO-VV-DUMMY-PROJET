@@ -1,8 +1,7 @@
-package fr.istic.domain.operations;
+package fr.istic.vv.operations;
 
-import fr.istic.domain.Operation;
-import fr.istic.domain.OperationException;
-import fr.istic.domain.operations.Div;
+import fr.istic.vv.Operation;
+import fr.istic.vv.OperationException;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

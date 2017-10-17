@@ -1,4 +1,4 @@
-package fr.istic.domain;
+package fr.istic.vv;
 
 public interface Operation {
 

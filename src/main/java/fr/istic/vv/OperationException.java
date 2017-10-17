@@ -1,4 +1,4 @@
-package fr.istic.domain;
+package fr.istic.vv;
 
 /**
  * OperationException is the exception throwed by an execute call in an Operation class

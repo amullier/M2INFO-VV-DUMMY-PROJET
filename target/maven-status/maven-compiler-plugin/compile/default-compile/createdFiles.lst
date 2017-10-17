@@ -1,0 +1,6 @@
+fr/istic/domain/operations/Minus.class
+fr/istic/domain/OperationException.class
+fr/istic/domain/Operation.class
+fr/istic/domain/operations/Plus.class
+fr/istic/domain/operations/Mult.class
+fr/istic/domain/operations/Div.class
