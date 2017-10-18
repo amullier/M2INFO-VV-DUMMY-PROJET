@@ -9,5 +9,5 @@ public interface Operation {
      * @return the operation result
      * @throws OperationException
      */
-    double execute(int op1,int op2) throws OperationException;
+    double execute(double op1,double op2) throws OperationException;
 }

@@ -3,7 +3,7 @@ package fr.istic.vv.operations;
 import fr.istic.vv.Operation;
 import fr.istic.vv.OperationException;
 
-public class Mult implements Operation {
+public class Times implements Operation {
     /**
      * Makes the multiplication between operands op1 and op2
      *
@@ -13,7 +13,7 @@ public class Mult implements Operation {
      * @throws OperationException
      */
     @Override
-    public double execute(int op1, int op2) throws OperationException {
+    public double execute(double op1, double op2) throws OperationException {
         return op1*op2;
     }
 }

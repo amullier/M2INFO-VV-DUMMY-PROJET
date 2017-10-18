@@ -14,7 +14,7 @@ public class Div implements Operation {
      * @throws OperationException if op2 is equals to zero
      */
     @Override
-    public double execute(int op1, int op2) throws OperationException {
+    public double execute(double op1, double op2) throws OperationException {
         if(op2==0){
             throw new OperationException("The operand 2 can't be equals to zero for the division");
         }

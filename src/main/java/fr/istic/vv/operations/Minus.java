@@ -13,7 +13,7 @@ public class Minus implements Operation {
      * @throws OperationException
      */
     @Override
-    public double execute(int op1, int op2) throws OperationException {
-        return 0;
+    public double execute(double op1, double op2) throws OperationException {
+        return op1 - op2;
     }
 }
