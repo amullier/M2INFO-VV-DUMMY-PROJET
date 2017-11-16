@@ -1,1 +1,4 @@
-fr/istic/domain/operations/DivTest.class
+fr/istic/vv/operations/MinusTest.class
+fr/istic/vv/operations/PlusTest.class
+fr/istic/vv/operations/TimesTest.class
+fr/istic/vv/operations/DivTest.class

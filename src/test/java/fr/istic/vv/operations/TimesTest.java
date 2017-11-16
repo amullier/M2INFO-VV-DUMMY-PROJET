@@ -53,19 +53,22 @@ public class TimesTest {
         times(0.2,5,1);
     }
 
-    @Test void timesWithTwoPositive(){
+    @Test
+    public void timesWithTwoPositive(){
         timesPositive(5,2);
         timesPositive(5,12);
     }
 
 
 
-    @Test void timesWithTwoNegative(){
+    @Test
+    public void timesWithTwoNegative(){
         timesPositive(-5,-2);
         timesPositive(-5,-12);
     }
 
-    @Test void timesWithNegativeAndPositive(){
+    @Test
+    public void timesWithNegativeAndPositive(){
         timesNegative(5,-2);
         timesNegative(-5,12);
     }
