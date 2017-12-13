@@ -18,6 +18,6 @@ public class Supp implements Operation {
         if(op2<op1){
             throw new OperationException("The operand 2 can't be lower that op1");
         }
-        return op1>op2;
+        return 1;
     }
 }
