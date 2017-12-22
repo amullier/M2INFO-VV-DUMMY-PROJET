@@ -3,11 +3,11 @@
 
 Antoine Mullier & Romain Sadok
 
-##Usage
+## Usage
 This project is a target project for mutation testing in [M2INFO-VV-PROJET](https://github.com/amullier/M2INFO-VV-PROJET)
 
 The project contains only few classes, exceptions and tests in order to make a good target for [M2INFO-VV-PROJET](https://github.com/amullier/M2INFO-VV-PROJET). 
 Helpful for development and quick testing.
 
-##Build
+## Build
 The project is a Maven project, use <code>mvn install</code> to build.
